@@ -58,19 +58,18 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃J𝖀𝗦𝐓Λ𝗧𝙕-𝙈𝘿 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 
+┃ 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 
 ┃𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇𝙇𝙔
 ┃𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = ✰ J𝖀𝗦𝐓Λ-𝗧𝙕 ✰
+❶ || Creator = ✰ Shashika dilshan✰
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VbBWxrX9hXFBG2hUtc3D
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Chat me 👉 https://wa.me/255719442240
-𝕋ℍ𝕀𝕊 𝕀𝕊 J𝖀𝗦𝐓Λ𝗧𝙕-𝕄𝔻-ℕ𝔼𝕎-𝕌ℙ𝔻𝔸𝕋𝔼 2025
+Chat me 👉 https://wa.me/94705104830
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 J𝖀𝗦𝐓Λ𝗧𝙕-𝐅𝐑𝐎𝐌-𝐓Z*
+©*agni*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
